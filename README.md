@@ -10,3 +10,7 @@ in risk of being a ‘bad’ loaner. A such solution might be in value for insti
 <p>The dataset used in this project is named ’German Credit Data Risk’ and is collected from banks in Germany.
 It was published in 2016 but the data has been collected before this.The dataset contains 1000 entries with 10 categories, 
 where one entry represent a person who has credit in a bank</p>
+
+<b>Link to Colab Notebook</b>
+
+https://colab.research.google.com/drive/1RJpoSujIxsxjQn0IaZH00b1uFww3u05O
